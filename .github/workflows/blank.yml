@@ -32,7 +32,4 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           
-          plugin_lines: yes
-          
-          plugin_activity: yes
-          
+          plugin_lines: yes        
